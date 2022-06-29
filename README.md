@@ -2,10 +2,12 @@
 
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 
-### Hey there *tips hat*
+### Hello! Name is Dan Santarossa!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I am DevOps Engineering student in training. Currently studying and working with Linux, AWS, and Python. 
+I am DevOps Engineering student currently studying and working with Linux, AWS, and Python. 
+My other interests are martial arts, gaming, doodling on note cards, and my dog.
+I am here to learn!
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
