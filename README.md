@@ -5,7 +5,7 @@
 ### Hello! Name is Dan Santarossa!
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
-I am DevOps Engineering student currently studying and working with Linux, AWS, and Python. 
+I am DevOps Engineering student currently studying and working with Linux, AWS, Python, Terraform and more! 
 My other interests are martial arts, gaming, doodling on note cards, and my dog.
 I am here to learn!
 Find out more about me & feel free to connect with me here:
