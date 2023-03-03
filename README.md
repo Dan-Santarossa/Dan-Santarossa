@@ -12,7 +12,6 @@ Find out more about me & feel free to connect here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dan_Santarossa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dan-s-0b0373165/)](https://www.linkedin.com/in/dan-s-0b0373165/)
 [![Medium Badge](https://img.shields.io/badge/Dan_Santarossa-12100E?style=flat-square&logo=medium&logoColor=white&link=https://dansantarossa.medium.com/)](https://dansantarossa.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-dpsantarossa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpsantarossa@gmail.com)](mailto:dpsantarossa@gmail.com)
 
 ## ⚡ Technologies
 
